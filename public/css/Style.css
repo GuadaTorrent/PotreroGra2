@@ -1,0 +1,16 @@
+/* Sintaxys
+selector
+    {
+propiedad:valor;
+}
+*/
+h1{ 
+    color: rgb(20, 144, 211);
+    font-style: oblique;
+    font-size: 100px;
+}
+h2{
+    color: rgb(94, 30, 158); 
+    font-style: italic;
+    font-size: 70px;
+}
